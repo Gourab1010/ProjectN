@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-30T12:23:24 IST" name="Default suite" finished-at="2024-06-30T12:24:06 IST" duration-ms="42704">
+    <groups>
+    </groups>
+    <test started-at="2024-06-30T12:23:24 IST" name="Default test" finished-at="2024-06-30T12:24:06 IST" duration-ms="42704">
+      <class name="Module2.nTest">
+        <test-method is-config="true" signature="nopenbrowser()[pri:0, instance:Module2.nTest@543295b0]" started-at="2024-06-30T12:23:24 IST" name="nopenbrowser" finished-at="2024-06-30T12:23:55 IST" duration-ms="31803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nopenbrowser -->
+        <test-method is-config="true" signature="loginpage()[pri:0, instance:Module2.nTest@543295b0]" started-at="2024-06-30T12:23:55 IST" name="loginpage" finished-at="2024-06-30T12:23:56 IST" duration-ms="763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="resumeupdate()[pri:0, instance:Module2.nTest@543295b0]" started-at="2024-06-30T12:23:56 IST" name="resumeupdate" finished-at="2024-06-30T12:24:06 IST" duration-ms="9371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resumeupdate -->
+        <test-method is-config="true" signature="logoutN()[pri:0, instance:Module2.nTest@543295b0]" started-at="2024-06-30T12:24:06 IST" name="logoutN" finished-at="2024-06-30T12:24:06 IST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutN -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Module2.nTest@543295b0]" started-at="2024-06-30T12:24:06 IST" name="quit" finished-at="2024-06-30T12:24:06 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Module2.nTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
